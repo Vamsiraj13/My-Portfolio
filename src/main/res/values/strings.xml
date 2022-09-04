@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vamsi_doraswamy">Vamsi Doraswamy</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="skills">Skills</string>
+    <string name="java_kotlin_python_flutter_android">Java | Kotlin | Python | Flutter | Android</string>
+    <string name="doraswamyvamsi9_gmail_com">doraswamyvamsi9@gmail.com</string>
+    <string name="_91_6303375517">+91 6303375517</string>
+    <string name="i_love_building_customizing_apps_in_an_innovative_way">I love building, customizing apps in an innovative way</string>
+    <string name="my_resume">My Resume</string>
+    <string name="exit">Exit</string>
+    <string name="todo">TODO</string>
+</resources>
